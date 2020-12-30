@@ -10,7 +10,7 @@ An interesting feature it provides is the ability to create and add widgets to i
 ## How to use
   - Downlod repository and copy widget files `(.py)` to your iOS device.
   - Install [Pythonista](http://omz-software.com/pythonista/) if you don't already have it.
-  - Launch Pythonista and select respective script as you `Today Widget`.
+  - Launch Pythonista and select respective script as your `Today Widget`.
 
 ## Dev Notes
 Implementation Language: Python v3.
