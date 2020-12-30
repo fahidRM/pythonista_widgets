@@ -1,5 +1,5 @@
-# pythonista_widgets
-A collection of Pythonista widgets
+# Pythonista Widgets
+A collection of Pythonista widgets I built & use.
 
 
 ## Background
@@ -38,3 +38,6 @@ Reads contents of a file (deck.txt) and presents it as flash cards.
      Answer 2
      =====
 
+
+## License
+Feel free to use this code snippets as you wish.
