@@ -40,4 +40,4 @@ Reads contents of a file (deck.txt) and presents it as flash cards.
 
 
 ## License
-Feel free to use this code snippets as you wish.
+Feel free to use the code contained in this repo as you wish.
